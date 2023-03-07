@@ -44,3 +44,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 | ------ | ------ |
 | cl | clear |
 | gnit | git init |
+
+## ¿Cuál es la diferencia entre un sistema de control de versiones distribuido y uno centralizado?
+En un sistema de control de versiones distribuido cada desarrollador tiene una copia completa del repositorio en su propia computadora, pueden hacer cambios y luego sincronizar su trabajo con el repositorio central y con las copias de los otros desarrolladores si lo consideran. Por otro lado, en un sistema de control de versiones centralizado solo existe un único repositorio centralizado donde se almacena todas las versiones del código fuente, los desarrolladores deben conectarse para obtener una copia y enviar sus cambios.
+
