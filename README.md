@@ -28,3 +28,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jesab3l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+
+### Comandos
+| Comando | Description |
+| ------ | ------ |
+| ls | show files and directories are in the current directory |
+| cd | change directories |
+| git init | creates an empty Git repository |
+| clear | clear the terminal screen |
+| git status | displays the state of the working directory and the staging area |
+
+### Comandos alias
+| Comando | Description |
+| ------ | ------ |
+| cl | clear |
+| gnit | git init |
