@@ -35,7 +35,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 | ------ | ------ |
 | ls | show files and directories are in the current directory |
 | cd | change directories |
-| git init | creates an empty Git repository |
+| git init | create an empty Git repository |
 | clear | clear the terminal screen |
 | git status | displays the state of the working directory and the staging area |
 
